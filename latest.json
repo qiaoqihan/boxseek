@@ -1,6 +1,6 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0.0",
-  "releaseNotes": "首版提供图片、PDF、二维码和日常工具。",
-  "apkUrl": "https://github.com/qiaoqihan/boxseek/releases/download/v1.0.0/boxseek-1.0.0.apk"
+  "versionCode": 2,
+  "versionName": "1.0.1",
+  "releaseNotes": "修复 1.0.0 打开即闪退的问题。已安装 1.0.0 可直接覆盖安装，功能不变。",
+  "apkUrl": "https://github.com/qiaoqihan/boxseek/releases/download/v1.0.1/boxseek-1.0.1.apk"
 }

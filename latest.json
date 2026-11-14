@@ -1,6 +1,6 @@
 {
-  "versionCode": 2,
-  "versionName": "1.0.1",
-  "releaseNotes": "修复 1.0.0 打开即闪退的问题。已安装 1.0.0 可直接覆盖安装，功能不变。",
-  "apkUrl": "https://github.com/qiaoqihan/boxseek/releases/download/v1.0.1/boxseek-1.0.1.apk"
+  "versionCode": 3,
+  "versionName": "1.0.2",
+  "releaseNotes": "更新首页布局、配色和应用图标。",
+  "apkUrl": "https://github.com/qiaoqihan/boxseek/releases/download/v1.0.2/boxseek-1.0.2.apk"
 }

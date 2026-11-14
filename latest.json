@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "1.0.2",
-  "releaseNotes": "更新首页布局、配色和应用图标。",
-  "apkUrl": "https://github.com/qiaoqihan/boxseek/releases/download/v1.0.2/boxseek-1.0.2.apk"
+  "versionCode": 4,
+  "versionName": "1.0.3",
+  "releaseNotes": "整体重做界面（石墨配色、新组件与矢量图标），修复保存误删、二维码缓存与多选覆盖等问题；开启 R8 压缩，安装包约 5.8 MB。",
+  "apkUrl": "https://github.com/qiaoqihan/boxseek/releases/download/v1.0.3/boxseek-1.0.3.apk"
 }

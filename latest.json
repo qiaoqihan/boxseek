@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "1.0.4",
-  "releaseNotes": "新增音视频处理工具及图片保存到相册；支持浅色和深色主题切换，优化启动体验；更新音视频处理组件。",
-  "apkUrl": "https://github.com/qiaoqihan/boxseek/releases/download/v1.0.4/boxseek-1.0.4-arm64.apk"
+  "versionCode": 6,
+  "versionName": "1.0.5",
+  "releaseNotes": "修复已知问题，提升应用稳定性，建议更新。",
+  "apkUrl": "https://github.com/qiaoqihan/boxseek/releases/download/v1.0.5/boxseek-1.0.5-arm64.apk"
 }

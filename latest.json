@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "1.0.5",
-  "releaseNotes": "修复已知问题，提升应用稳定性，建议更新。",
-  "apkUrl": "https://github.com/qiaoqihan/boxseek/releases/download/v1.0.5/boxseek-1.0.5-arm64.apk"
+  "versionCode": 7,
+  "versionName": "1.1.0",
+  "releaseNotes": "新增倒数日、番茄钟、习惯打卡、局域网设备查看、IP 与端口检测、局域网文件互传六项工具；启动时自动检查新版本并显示更新公告；优化首页双列卡片布局与配色；修复了已知的问题。",
+  "apkUrl": "https://github.com/qiaoqihan/boxseek/releases/download/v1.1.0/boxseek-1.1.0-arm64.apk"
 }

@@ -1,6 +1,6 @@
 {
-  "versionCode": 9,
-  "versionName": "1.1.2",
-  "releaseNotes": "实验室改版：首页直接显示已启用的实验工具，实验室管理页和工具页跟随浅色/深色主题；设置页统一改为实验室。",
-  "apkUrl": "https://github.com/qiaoqihan/boxseek/releases/download/v1.1.2/boxseek-1.1.2-arm64.apk"
+  "versionCode": 10,
+  "versionName": "1.1.3",
+  "releaseNotes": "实验室新增“跳广告”可选模块：通过无障碍识别当前界面的“跳过 / 关闭广告 / Skip”等控件并点击，支持安全关键词、自定义规则、GKD 风格导入与冷却限制。\n\n实验室管理支持后台自动更新，也可刷新目录后在卡片上手动更新。\n\n首页底部提示精简，设置页深色模式卡片更紧凑，实验室说明改为可选功能说明。\n\n无障碍权限只在本机读取控件文字和描述，不截图、不上传。",
+  "apkUrl": "https://github.com/qiaoqihan/boxseek/releases/download/v1.1.3/boxseek-1.1.3-arm64.apk"
 }

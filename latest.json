@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "1.1.0",
-  "releaseNotes": "新增倒数日、番茄钟、习惯打卡、局域网设备查看、IP 与端口检测、局域网文件互传六项工具；启动时自动检查新版本并显示更新公告；优化首页双列卡片布局与配色；修复了已知的问题。",
-  "apkUrl": "https://github.com/qiaoqihan/boxseek/releases/download/v1.1.0/boxseek-1.1.0-arm64.apk"
+  "versionCode": 8,
+  "versionName": "1.1.1",
+  "releaseNotes": "局域网文件互传升级为房间模式，支持同一 Wi-Fi 下多台手机或电脑扫码、输入网址加入，并发上传下载，同名文件自动去重；习惯打卡新增每个习惯独立的未打卡提醒，可设置提醒时间，已打卡会自动顺延；检查更新增加镜像回退和手动打开发布页入口。",
+  "apkUrl": "https://github.com/qiaoqihan/boxseek/releases/download/v1.1.1/boxseek-1.1.1-arm64.apk"
 }

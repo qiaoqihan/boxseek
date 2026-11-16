@@ -1,6 +1,6 @@
 {
   "versionCode": 8,
   "versionName": "1.1.1",
-  "releaseNotes": "局域网文件互传升级为房间模式，支持同一 Wi-Fi 下多台手机或电脑扫码、输入网址加入，并发上传下载，同名文件自动去重；习惯打卡新增每个习惯独立的未打卡提醒，可设置提醒时间，已打卡会自动顺延；检查更新增加镜像回退和手动打开发布页入口。",
+  "releaseNotes": "局域网文件互传新增房间模式；习惯打卡支持每日提醒；优化更新检查和界面。",
   "apkUrl": "https://github.com/qiaoqihan/boxseek/releases/download/v1.1.1/boxseek-1.1.1-arm64.apk"
 }

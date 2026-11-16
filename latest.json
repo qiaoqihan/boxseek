@@ -1,6 +1,6 @@
 {
-  "versionCode": 8,
-  "versionName": "1.1.1",
-  "releaseNotes": "局域网文件互传新增房间模式；习惯打卡支持每日提醒；优化更新检查和界面。",
-  "apkUrl": "https://github.com/qiaoqihan/boxseek/releases/download/v1.1.1/boxseek-1.1.1-arm64.apk"
+  "versionCode": 9,
+  "versionName": "1.1.2",
+  "releaseNotes": "实验室改版：首页直接显示已启用的实验工具，实验室管理页和工具页跟随浅色/深色主题；设置页统一改为实验室。",
+  "apkUrl": "https://github.com/qiaoqihan/boxseek/releases/download/v1.1.2/boxseek-1.1.2-arm64.apk"
 }

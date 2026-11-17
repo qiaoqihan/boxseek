@@ -1,6 +1,6 @@
 {
-  "versionCode": 9,
-  "versionName": "1.1.2",
-  "releaseNotes": "实验室改版：首页直接显示已启用的实验工具，实验室管理页和工具页跟随浅色/深色主题；设置页统一改为实验室。",
-  "apkUrl": "https://github.com/qiaoqihan/boxseek/releases/download/v1.1.2/boxseek-1.1.2-arm64.apk"
+  "versionCode": 11,
+  "versionName": "1.1.4",
+  "releaseNotes": "网络新增 SSH 终端：可保存主机配置，使用密码或私钥登录，首次连接记录主机指纹，并提供交互式 shell；密码、私钥和口令不落盘。首页 SSH 卡片说明恢复单行。",
+  "apkUrl": "https://github.com/qiaoqihan/boxseek/releases/download/v1.1.4/boxseek-1.1.4-arm64.apk"
 }

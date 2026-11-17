@@ -1,6 +1,6 @@
 {
-  "versionCode": 11,
-  "versionName": "1.1.4",
-  "releaseNotes": "网络新增 SSH 终端：可保存主机配置，使用密码或私钥登录，首次连接记录主机指纹，并提供交互式 shell；密码、私钥和口令不落盘。首页 SSH 卡片说明恢复单行。",
-  "apkUrl": "https://github.com/qiaoqihan/boxseek/releases/download/v1.1.4/boxseek-1.1.4-arm64.apk"
+  "versionCode": 12,
+  "versionName": "1.1.5",
+  "releaseNotes": "SSH 终端新增凭据加密保存：密码、私钥和口令默认使用 Android Keystore AES-256-GCM 加密保存在本机，同一主机二次连接无需重复输入；主机编辑页可清除已保存凭据，修改地址、端口、用户名或认证方式会自动清除；已保存凭据失效时会自动删除并提示重新输入。",
+  "apkUrl": "https://github.com/qiaoqihan/boxseek/releases/download/v1.1.5/boxseek-1.1.5-arm64.apk"
 }

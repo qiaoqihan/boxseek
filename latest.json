@@ -1,6 +1,6 @@
 {
-  "versionCode": 12,
-  "versionName": "1.1.5",
-  "releaseNotes": "SSH 终端新增凭据加密保存：密码、私钥和口令默认使用 Android Keystore AES-256-GCM 加密保存在本机，同一主机二次连接无需重复输入；主机编辑页可清除已保存凭据，修改地址、端口、用户名或认证方式会自动清除；已保存凭据失效时会自动删除并提示重新输入。",
-  "apkUrl": "https://github.com/qiaoqihan/boxseek/releases/download/v1.1.5/boxseek-1.1.5-arm64.apk"
+  "versionCode": 13,
+  "versionName": "1.1.6",
+  "releaseNotes": "新增打印工具：支持 PDF、图片和纯文本通过 Android 系统打印服务输出，可在系统面板选择打印机、纸张和份数，也支持保存为 PDF；同步包含图片取色器和实验室模块更新。",
+  "apkUrl": "https://github.com/qiaoqihan/boxseek/releases/download/v1.1.6/boxseek-1.1.6-arm64.apk"
 }

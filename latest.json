@@ -1,6 +1,6 @@
 {
-  "versionCode": 13,
-  "versionName": "1.1.6",
-  "releaseNotes": "新增打印工具：支持 PDF、图片和纯文本通过 Android 系统打印服务输出，可在系统面板选择打印机、纸张和份数，也支持保存为 PDF；同步包含图片取色器和实验室模块更新。",
-  "apkUrl": "https://github.com/qiaoqihan/boxseek/releases/download/v1.1.6/boxseek-1.1.6-arm64.apk"
+  "versionCode": 14,
+  "versionName": "1.1.7",
+  "releaseNotes": "反馈改为直接提交到盒觅后台；更新检查优先使用 boxseek.curiousfolio.cn 分发，GitHub Release 作为备用源。",
+  "apkUrl": "https://github.com/qiaoqihan/boxseek/releases/download/v1.1.7/boxseek-1.1.7-arm64.apk"
 }

@@ -1,6 +1,6 @@
 {
-  "versionCode": 14,
-  "versionName": "1.1.7",
-  "releaseNotes": "反馈改为直接提交到盒觅后台；更新检查优先使用 boxseek.curiousfolio.cn 分发，GitHub Release 作为备用源。",
-  "apkUrl": "https://github.com/qiaoqihan/boxseek/releases/download/v1.1.7/boxseek-1.1.7-arm64.apk"
+  "versionCode": 15,
+  "versionName": "1.1.8",
+  "releaseNotes": "新增「公告 / 更新说明」：设置页可查看后台公告，支持置顶、类型和发布日期，正文按纯文本保留换行；请求失败或超时静默降级并展示最近缓存，不影响首页、设置页和更新检查。",
+  "apkUrl": "https://github.com/qiaoqihan/boxseek/releases/download/v1.1.8/boxseek-1.1.8-arm64.apk"
 }

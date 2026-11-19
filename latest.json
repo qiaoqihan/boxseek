@@ -1,6 +1,6 @@
 {
-  "versionCode": 15,
-  "versionName": "1.1.8",
-  "releaseNotes": "新增「公告 / 更新说明」：设置页可查看后台公告，支持置顶、类型和发布日期，正文按纯文本保留换行；请求失败或超时静默降级并展示最近缓存，不影响首页、设置页和更新检查。",
-  "apkUrl": "https://github.com/qiaoqihan/boxseek/releases/download/v1.1.8/boxseek-1.1.8-arm64.apk"
+  "versionCode": 16,
+  "versionName": "1.2.0",
+  "releaseNotes": "新增可选账号：邮箱注册/登录、30 天无操作自动退出、学校信息（西安交通大学/其他/不填写）、修改学校/密码/邮箱、账号注销，以及用户协议和隐私政策；设置页顶部改为用户信息卡。未登录不影响本地工具、反馈、公告和更新检查。",
+  "apkUrl": "https://github.com/qiaoqihan/boxseek/releases/download/v1.2.0/boxseek-1.2.0-arm64.apk"
 }

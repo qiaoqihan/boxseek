@@ -1,6 +1,6 @@
 {
-  "versionCode": 16,
-  "versionName": "1.2.0",
-  "releaseNotes": "账号能力增强：注册新增唯一用户名（可用于登录），登录支持用户名或邮箱，学校选“其他”可自填名称；账号页按用户名、邮箱、学校、密码分别修改，退出登录增加二次确认，用户协议与隐私政策仅在设置页底部入口展示。未登录不影响本地工具、反馈、公告和更新检查。",
-  "apkUrl": "https://github.com/qiaoqihan/boxseek/releases/download/v1.2.0/boxseek-1.2.0-arm64.apk"
+  "versionCode": 17,
+  "versionName": "1.2.1",
+  "releaseNotes": "通知中心升级：公告改为通知，支持按指定用户、用户组、学校定向发送；设置页通知入口去掉前置图标，开源许可改为小字展示；后台发布状态接入 Gitee Release。",
+  "apkUrl": "https://github.com/qiaoqihan/boxseek/releases/download/v1.2.1/boxseek-1.2.1-arm64.apk"
 }

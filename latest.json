@@ -1,22 +1,22 @@
 {
-  "versionCode": 18,
-  "versionName": "1.2.2",
-  "releaseNotes": "1.2.2 覆盖更新：下载源顺序改由后台统一配置，设置页不再提供用户切换；下载更新时状态栏显示后台下载进度；Python/C++ 练习场编辑器随代码行数自动增高，并移除输入框绿色焦点边框。编程分组、在线练习场与断点续传能力保持不变。",
-  "apkUrl": "https://boxseek.curiousfolio.cn/downloads/boxseek-1.2.2-arm64.apk",
-  "sizeBytes": 38326113,
-  "sha256": "d36395ba3fb835e9eeef443f9d6501785ff5f35669b43b5f23020b95041a48c4",
+  "versionCode": 19,
+  "versionName": "1.2.3",
+  "releaseNotes": "1.2.3 校园服务升级为多学校：新增哈尔滨工程大学校园模块，支持官方统一身份认证登录、课表、成绩与学分统计；西安交通大学模块继续支持课表、考试、成绩/GPA 与空教室。账号学校字段新增哈尔滨工程大学，校园入口按学校自动匹配；两个校园模块独立按需下载、签名校验，可分别安装、更新和卸载。西交课表课程名、地点、教师改为完整多行显示，已有有效会话时直接进入校园，不再经过 CAS。",
+  "apkUrl": "https://boxseek.curiousfolio.cn/downloads/boxseek-1.2.3-arm64.apk",
+  "sizeBytes": 38391761,
+  "sha256": "bc64683f0817916416eda1737b0c7b6f03a8b75958e8de9e82955284bda70173",
   "downloads": [
     {
       "name": "服务器",
-      "url": "https://boxseek.curiousfolio.cn/downloads/boxseek-1.2.2-arm64.apk"
+      "url": "https://boxseek.curiousfolio.cn/downloads/boxseek-1.2.3-arm64.apk"
     },
     {
       "name": "GitHub",
-      "url": "https://github.com/qiaoqihan/boxseek/releases/download/v1.2.2/boxseek-1.2.2-arm64.apk"
+      "url": "https://github.com/qiaoqihan/boxseek/releases/download/v1.2.3/boxseek-1.2.3-arm64.apk"
     },
     {
       "name": "Gitee",
-      "url": "https://gitee.com/qiao-qihan/boxseek/releases/download/v1.2.2/boxseek-1.2.2-arm64.apk"
+      "url": "https://gitee.com/qiao-qihan/boxseek/releases/download/v1.2.3/boxseek-1.2.3-arm64.apk"
     }
   ]
 }

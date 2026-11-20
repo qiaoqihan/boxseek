@@ -1,22 +1,22 @@
 {
-  "versionCode": 17,
-  "versionName": "1.2.1",
-  "releaseNotes": "通知中心升级：公告改为通知，支持按指定用户、用户组、学校定向发送；设置页通知入口去掉前置图标，开源许可改为小字展示；后台发布状态接入 Gitee Release；应用更新改为 App 内测速下载，在服务器、GitHub、Gitee 之间选择较快源，并在安装前校验大小、SHA-256、包名、版本号和签名证书。",
-  "apkUrl": "https://github.com/qiaoqihan/boxseek/releases/download/v1.2.1/boxseek-1.2.1-arm64.apk",
-  "sizeBytes": 38305465,
-  "sha256": "6420af3a0dbc75374952b71d845e39c56ceb0bdb6f9255ba25a3cc430768d963",
+  "versionCode": 18,
+  "versionName": "1.2.2",
+  "releaseNotes": "新增“编程”分组与 Python/C++ 在线练习场：Python 由 Pyodide 驱动，支持标准输入、NumPy、超时与停止；C++ 由 cppbolt 提供 C++17 子集编译运行。代码只在 WebView Worker 本地执行，不上传服务器。首次运行需联网加载运行时（Python 约 6.1 MB，C++ 约 1.1 MB）。",
+  "apkUrl": "https://github.com/qiaoqihan/boxseek/releases/download/v1.2.2/boxseek-1.2.2-arm64.apk",
+  "sizeBytes": 38309673,
+  "sha256": "741a76ff8cf6fc36cceb3769e113312b5a250019ac4832ac6e4c671563c3b8d4",
   "downloads": [
     {
       "name": "服务器",
-      "url": "https://boxseek.curiousfolio.cn/downloads/boxseek-1.2.1-arm64.apk"
+      "url": "https://boxseek.curiousfolio.cn/downloads/boxseek-1.2.2-arm64.apk"
     },
     {
       "name": "GitHub",
-      "url": "https://github.com/qiaoqihan/boxseek/releases/download/v1.2.1/boxseek-1.2.1-arm64.apk"
+      "url": "https://github.com/qiaoqihan/boxseek/releases/download/v1.2.2/boxseek-1.2.2-arm64.apk"
     },
     {
       "name": "Gitee",
-      "url": "https://gitee.com/qiao-qihan/boxseek/releases/download/v1.2.1/boxseek-1.2.1-arm64.apk"
+      "url": "https://gitee.com/qiao-qihan/boxseek/releases/download/v1.2.2/boxseek-1.2.2-arm64.apk"
     }
   ]
 }

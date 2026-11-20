@@ -1,10 +1,10 @@
 {
   "versionCode": 18,
   "versionName": "1.2.2",
-  "releaseNotes": "新增“编程”分组与 Python/C++ 在线练习场：Python 由 Pyodide 驱动，支持标准输入、NumPy、超时与停止；C++ 由 cppbolt 提供 C++17 子集编译运行。代码只在 WebView Worker 本地执行，不上传服务器。首次运行需联网加载运行时（Python 约 6.1 MB，C++ 约 1.1 MB）。",
-  "apkUrl": "https://github.com/qiaoqihan/boxseek/releases/download/v1.2.2/boxseek-1.2.2-arm64.apk",
-  "sizeBytes": 38309673,
-  "sha256": "741a76ff8cf6fc36cceb3769e113312b5a250019ac4832ac6e4c671563c3b8d4",
+  "releaseNotes": "1.2.2 覆盖更新：下载源顺序改由后台统一配置，设置页不再提供用户切换；下载更新时状态栏显示后台下载进度；Python/C++ 练习场编辑器随代码行数自动增高，并移除输入框绿色焦点边框。编程分组、在线练习场与断点续传能力保持不变。",
+  "apkUrl": "https://boxseek.curiousfolio.cn/downloads/boxseek-1.2.2-arm64.apk",
+  "sizeBytes": 38326113,
+  "sha256": "d36395ba3fb835e9eeef443f9d6501785ff5f35669b43b5f23020b95041a48c4",
   "downloads": [
     {
       "name": "服务器",

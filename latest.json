@@ -1,10 +1,10 @@
 {
   "versionCode": 17,
   "versionName": "1.2.1",
-  "releaseNotes": "通知中心升级：公告改为通知，支持按指定用户、用户组、学校定向发送；设置页通知入口去掉前置图标，开源许可改为小字展示；后台发布状态接入 Gitee Release。",
+  "releaseNotes": "通知中心升级：公告改为通知，支持按指定用户、用户组、学校定向发送；设置页通知入口去掉前置图标，开源许可改为小字展示；后台发布状态接入 Gitee Release；应用更新改为 App 内测速下载，在服务器、GitHub、Gitee 之间选择较快源，并在安装前校验大小、SHA-256、包名、版本号和签名证书。",
   "apkUrl": "https://github.com/qiaoqihan/boxseek/releases/download/v1.2.1/boxseek-1.2.1-arm64.apk",
-  "sizeBytes": 38272697,
-  "sha256": "0525f9001c7908dd83c26668e3bf9e6ca09410017d04ebf50b96eedd269db0b0",
+  "sizeBytes": 38305465,
+  "sha256": "6420af3a0dbc75374952b71d845e39c56ceb0bdb6f9255ba25a3cc430768d963",
   "downloads": [
     {
       "name": "服务器",

@@ -1,10 +1,10 @@
 {
-  "versionCode": 22,
+  "versionCode": 23,
   "versionName": "1.2.6",
-  "releaseNotes": "1.2.6 完成 P0 架构整改：校园模块改为 Gradle 子工程与共享内核，能力驱动 Tab，不再假设每校都有课表/成绩/空教室；校园 UI 跟随应用内深浅模式并保留学校品牌色。更新协调器移出 MainActivity，9 个网络客户端统一到 HttpTransport，Gitee 下载源退役。补齐校园能力单测，lint 0 error。西交校园 v6、哈工程校园 v3 同步发布；哈工程仅保留课表、成绩、学分。正式包仅 arm64-v8a。",
+  "releaseNotes": "1.2.6 修复重建版：修复校园模块在正式包点击后闪退（release 混淆裁掉 PluginTheme），修复学校信息、用户名修改、退出登录和注销账号因 HTTP 方法未写入而失败；设置页移除重复的校园模块管理入口，开源许可、用户协议、隐私政策改为同一行且分别打开对应内容。原有校园能力驱动、深浅模式、统一 HTTP 与双下载源保持不变。正式包仅 arm64-v8a。",
   "apkUrl": "https://boxseek.curiousfolio.cn/downloads/boxseek-1.2.6-arm64.apk",
   "sizeBytes": 38408145,
-  "sha256": "eeec2fbaa1dc5b900c9074989119dda3cdb4c156990839fcf9d52f0d52161b05",
+  "sha256": "88e959337b8e00df2caf6eb75a0f062487b3606b80fdcc85e92a950f319e1d2a",
   "downloads": [
     {
       "name": "服务器",

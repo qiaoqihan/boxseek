@@ -1,18 +1,18 @@
 {
-  "versionCode": 21,
-  "versionName": "1.2.5",
-  "releaseNotes": "1.2.5 修复校园模块更新链路：进入校园模块时自动检查并升级旧版，设置页新增“管理校园模块”入口。修复校园模块内 WebView 首次只显示半屏后再变全屏；修复空教室刚显示校区就因重复教学楼请求清空页面，失败改为内联重试并缓存学生角色。哈工程校园同步紧凑单行栏、设置管理与模块管理，西交校园 v5 与哈工程校园 v2 同步发布。正式包仅 arm64-v8a。",
-  "apkUrl": "https://boxseek.curiousfolio.cn/downloads/boxseek-1.2.5-arm64.apk",
-  "sizeBytes": 38428824,
-  "sha256": "85763bb9c7db47d7a9e192fe644134d92ef541a3dcbac4991cf4119e1fb572e5",
+  "versionCode": 22,
+  "versionName": "1.2.6",
+  "releaseNotes": "1.2.6 完成 P0 架构整改：校园模块改为 Gradle 子工程与共享内核，能力驱动 Tab，不再假设每校都有课表/成绩/空教室；校园 UI 跟随应用内深浅模式并保留学校品牌色。更新协调器移出 MainActivity，9 个网络客户端统一到 HttpTransport，Gitee 下载源退役。补齐校园能力单测，lint 0 error。西交校园 v6、哈工程校园 v3 同步发布；哈工程仅保留课表、成绩、学分。正式包仅 arm64-v8a。",
+  "apkUrl": "https://boxseek.curiousfolio.cn/downloads/boxseek-1.2.6-arm64.apk",
+  "sizeBytes": 38408145,
+  "sha256": "eeec2fbaa1dc5b900c9074989119dda3cdb4c156990839fcf9d52f0d52161b05",
   "downloads": [
     {
       "name": "服务器",
-      "url": "https://boxseek.curiousfolio.cn/downloads/boxseek-1.2.5-arm64.apk"
+      "url": "https://boxseek.curiousfolio.cn/downloads/boxseek-1.2.6-arm64.apk"
     },
     {
       "name": "GitHub",
-      "url": "https://github.com/qiaoqihan/boxseek/releases/download/v1.2.5/boxseek-1.2.5-arm64.apk"
+      "url": "https://github.com/qiaoqihan/boxseek/releases/download/v1.2.6/boxseek-1.2.6-arm64.apk"
     }
   ]
 }

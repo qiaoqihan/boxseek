@@ -3,8 +3,8 @@
   "versionName": "1.2.5",
   "releaseNotes": "1.2.5 修复校园模块更新链路：进入校园模块时自动检查并升级旧版，设置页新增“管理校园模块”入口。修复校园模块内 WebView 首次只显示半屏后再变全屏；修复空教室刚显示校区就因重复教学楼请求清空页面，失败改为内联重试并缓存学生角色。哈工程校园同步紧凑单行栏、设置管理与模块管理，西交校园 v5 与哈工程校园 v2 同步发布。正式包仅 arm64-v8a。",
   "apkUrl": "https://boxseek.curiousfolio.cn/downloads/boxseek-1.2.5-arm64.apk",
-  "sizeBytes": 38391761,
-  "sha256": "8c64ea84cb9e270e2adbcce202c4924555df59dbcd8ed89fe875938a1b5d9ac5b",
+  "sizeBytes": 38428824,
+  "sha256": "8e3b2110fca9db68bad9fbeb456c148d7e173c543ec4eadeda18612614820eeb",
   "downloads": [
     {
       "name": "服务器",

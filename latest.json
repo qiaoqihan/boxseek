@@ -1,18 +1,18 @@
 {
-  "versionCode": 23,
-  "versionName": "1.2.6",
-  "releaseNotes": "1.2.6 修复重建版：修复校园模块在正式包点击后闪退（release 混淆裁掉 PluginTheme），修复学校信息、用户名修改、退出登录和注销账号因 HTTP 方法未写入而失败；设置页移除重复的校园模块管理入口，开源许可、用户协议、隐私政策改为同一行且分别打开对应内容。原有校园能力驱动、深浅模式、统一 HTTP 与双下载源保持不变。正式包仅 arm64-v8a。",
-  "apkUrl": "https://boxseek.curiousfolio.cn/downloads/boxseek-1.2.6-arm64.apk",
-  "sizeBytes": 38408145,
-  "sha256": "88e959337b8e00df2caf6eb75a0f062487b3606b80fdcc85e92a950f319e1d2a",
+  "versionCode": 24,
+  "versionName": "1.2.7",
+  "releaseNotes": "1.2.7 新增统一“计算器”：科学计算、函数图像、个税、称谓与日期间隔五个标签，原独立日期间隔入口合并。西交校园模块同步升级 v9，改进空教室学生角色识别与登录保持；哈工程 v3 无源码改动，继续沿用现有清单。正式包仅 arm64-v8a，提供服务器与 GitHub 双下载源。",
+  "apkUrl": "https://boxseek.curiousfolio.cn/downloads/boxseek-1.2.7-arm64.apk",
+  "sizeBytes": 38555601,
+  "sha256": "82623f055f8265dff2080de172f709f27d07a4f722578daec234512b5468a72a",
   "downloads": [
     {
       "name": "服务器",
-      "url": "https://boxseek.curiousfolio.cn/downloads/boxseek-1.2.6-arm64.apk"
+      "url": "https://boxseek.curiousfolio.cn/downloads/boxseek-1.2.7-arm64.apk"
     },
     {
       "name": "GitHub",
-      "url": "https://github.com/qiaoqihan/boxseek/releases/download/v1.2.6/boxseek-1.2.6-arm64.apk"
+      "url": "https://github.com/qiaoqihan/boxseek/releases/download/v1.2.7/boxseek-1.2.7-arm64.apk"
     }
   ]
 }

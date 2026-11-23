@@ -1,18 +1,18 @@
 {
-  "versionCode": 24,
-  "versionName": "1.2.7",
-  "releaseNotes": "1.2.7 新增统一“计算器”：科学计算、函数图像、个税、称谓与日期间隔五个标签，原独立日期间隔入口合并。同版本修正科学计算输入区高度跳动、函数图像缩放拖动不连续，并精简称谓示例与底部说明。西交校园模块同步升级 v9，改进空教室学生角色识别与登录保持；哈工程 v3 无源码改动，继续沿用现有清单。正式包仅 arm64-v8a，提供服务器与 GitHub 双下载源。",
-  "apkUrl": "https://boxseek.curiousfolio.cn/downloads/boxseek-1.2.7-arm64.apk",
-  "sizeBytes": 38555601,
-  "sha256": "08c058d1bdc69a8dadc459f0cdb5cf7b19aa46e01416437426cdd4f90623b248",
+  "versionCode": 25,
+  "versionName": "1.2.8",
+  "releaseNotes": "1.2.8 完成 P1 稳定性整改：FFmpeg 长任务改为可取消的原生 Session，取消与失败分离；音频、视频、M3U8 任务增加前台服务通知与已中断可重试状态。校园模块改为不可变版本目录与原子指针，安装中断可恢复；西交退出登录只清理本校域 Cookie。主包要求西交模块至少 v10、哈工程至少 v3，模块要求主包至少 1.2.8，低于要求强制更新。新增 29 项工具注册表，统一首页、深链与文件工具路由，并改善字体缩放与无障碍语义。正式包仅 arm64-v8a，提供服务器与 GitHub 双下载源。",
+  "apkUrl": "https://boxseek.curiousfolio.cn/downloads/boxseek-1.2.8-arm64.apk",
+  "sizeBytes": 38604753,
+  "sha256": "6e85e66628faed554a62f358893a2ca4e93e0728a45a2844fd983d4ac3044b25",
   "downloads": [
     {
       "name": "服务器",
-      "url": "https://boxseek.curiousfolio.cn/downloads/boxseek-1.2.7-arm64.apk"
+      "url": "https://boxseek.curiousfolio.cn/downloads/boxseek-1.2.8-arm64.apk"
     },
     {
       "name": "GitHub",
-      "url": "https://github.com/qiaoqihan/boxseek/releases/download/v1.2.7/boxseek-1.2.7-arm64.apk"
+      "url": "https://github.com/qiaoqihan/boxseek/releases/download/v1.2.8/boxseek-1.2.8-arm64.apk"
     }
   ]
 }

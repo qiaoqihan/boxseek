@@ -1,18 +1,18 @@
 {
-  "versionCode": 26,
-  "versionName": "1.2.9",
-  "releaseNotes": "1.2.9 修复 FFmpeg 能力探测与 HLS 协议声明：硬件 H.264 探测改为单编码器查询，避免低内存设备枚举完整编码器清单导致 OOM；HLS 白名单收窄为实际可用的 file/http/tcp/crypto/data，https/tls 由 Android 网络栈承担。归档 FFmpeg 能力基线，确认 28 个必要组件可用，保留 ffmpeg-kit-full 不做激进裁剪。校园模块双向门控提升到主包 versionCode 26：主包要求西交至少 v10、哈工程至少 v3，两个模块清单要求主包至少 1.2.9。1.2.8 的 P1 取消/事务/Cookie 修复、工具注册表与 UI 调整全部保留。正式包仅 arm64-v8a，服务器为主源、GitHub Release 为备用源。",
-  "apkUrl": "https://boxseek.curiousfolio.cn/downloads/boxseek-1.2.9-arm64.apk",
-  "sizeBytes": 38604753,
-  "sha256": "68ed0cbd43b3d72906ecccb2cb732a24404c734a8411100ab017e89398622541",
+  "versionCode": 25,
+  "versionName": "1.2.8",
+  "releaseNotes": "1.2.8 重发版：完成 A2/A3 架构拆分，账号、SSH、西交校园、AdSkipper 与 Clicker 巨型文件已拆分为职责单一的小文件；A4 长任务持久化与进程中断恢复，首页提示并清理半成品；修复校园 Cookie 定向清理在 WebView 中的失效问题；补充首页 benchmark 基线、12 项仪器测试与 94 项 JVM 单测。正式包仅 arm64-v8a，提供服务器与 GitHub 双下载源。",
+  "apkUrl": "https://boxseek.curiousfolio.cn/downloads/boxseek-1.2.8-arm64.apk",
+  "sizeBytes": 38621137,
+  "sha256": "44fd39abe1ec62a68145bd01a2427a9da41cb3e0dd14b2ea41875a87c0967cd0",
   "downloads": [
     {
       "name": "服务器",
-      "url": "https://boxseek.curiousfolio.cn/downloads/boxseek-1.2.9-arm64.apk"
+      "url": "https://boxseek.curiousfolio.cn/downloads/boxseek-1.2.8-arm64.apk"
     },
     {
       "name": "GitHub",
-      "url": "https://github.com/qiaoqihan/boxseek/releases/download/v1.2.9/boxseek-1.2.9-arm64.apk"
+      "url": "https://github.com/qiaoqihan/boxseek/releases/download/v1.2.8/boxseek-1.2.8-arm64.apk"
     }
   ]
 }

@@ -1,18 +1,18 @@
 {
-  "versionCode": 25,
-  "versionName": "1.2.8",
-  "releaseNotes": "1.2.8 完成 P1 稳定性整改：FFmpeg 长任务改为可取消的原生 Session，取消与失败分离；音频、视频、M3U8 任务增加前台服务通知与已中断可重试状态。校园模块改为不可变版本目录与原子指针，安装中断可恢复；西交退出登录只清理本校域 Cookie。主包要求西交模块至少 v10、哈工程至少 v3，模块要求主包至少 1.2.8，低于要求强制更新。新增 29 项工具注册表，统一首页、深链与文件工具路由，并改善字体缩放与无障碍语义。正式包仅 arm64-v8a，提供服务器与 GitHub 双下载源。",
-  "apkUrl": "https://boxseek.curiousfolio.cn/downloads/boxseek-1.2.8-arm64.apk",
+  "versionCode": 26,
+  "versionName": "1.2.9",
+  "releaseNotes": "1.2.9 修复 FFmpeg 能力探测与 HLS 协议声明：硬件 H.264 探测改为单编码器查询，避免低内存设备枚举完整编码器清单导致 OOM；HLS 白名单收窄为实际可用的 file/http/tcp/crypto/data，https/tls 由 Android 网络栈承担。归档 FFmpeg 能力基线，确认 28 个必要组件可用，保留 ffmpeg-kit-full 不做激进裁剪。校园模块双向门控提升到主包 versionCode 26：主包要求西交至少 v10、哈工程至少 v3，两个模块清单要求主包至少 1.2.9。1.2.8 的 P1 取消/事务/Cookie 修复、工具注册表与 UI 调整全部保留。正式包仅 arm64-v8a，服务器为主源、GitHub Release 为备用源。",
+  "apkUrl": "https://boxseek.curiousfolio.cn/downloads/boxseek-1.2.9-arm64.apk",
   "sizeBytes": 38604753,
-  "sha256": "6e85e66628faed554a62f358893a2ca4e93e0728a45a2844fd983d4ac3044b25",
+  "sha256": "68ed0cbd43b3d72906ecccb2cb732a24404c734a8411100ab017e89398622541",
   "downloads": [
     {
       "name": "服务器",
-      "url": "https://boxseek.curiousfolio.cn/downloads/boxseek-1.2.8-arm64.apk"
+      "url": "https://boxseek.curiousfolio.cn/downloads/boxseek-1.2.9-arm64.apk"
     },
     {
       "name": "GitHub",
-      "url": "https://github.com/qiaoqihan/boxseek/releases/download/v1.2.8/boxseek-1.2.8-arm64.apk"
+      "url": "https://github.com/qiaoqihan/boxseek/releases/download/v1.2.9/boxseek-1.2.9-arm64.apk"
     }
   ]
 }

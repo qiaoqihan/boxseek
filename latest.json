@@ -1,18 +1,18 @@
 {
-  "versionCode": 25,
-  "versionName": "1.2.8",
-  "releaseNotes": "1.2.8 重发版：完成 A2/A3 架构拆分，账号、SSH、西交校园、AdSkipper 与 Clicker 巨型文件已拆分为职责单一的小文件；A4 长任务持久化与进程中断恢复，首页提示并清理半成品；修复校园 Cookie 定向清理在 WebView 中的失效问题；补充首页 benchmark 基线、12 项仪器测试与 94 项 JVM 单测。正式包仅 arm64-v8a，提供服务器与 GitHub 双下载源。",
-  "apkUrl": "https://boxseek.curiousfolio.cn/downloads/boxseek-1.2.8-arm64.apk",
-  "sizeBytes": 38621137,
-  "sha256": "44fd39abe1ec62a68145bd01a2427a9da41cb3e0dd14b2ea41875a87c0967cd0",
+  "versionCode": 26,
+  "versionName": "1.2.9",
+  "releaseNotes": "1.2.9 正式版：新增微信/系统分享文件入口，PDF、图片、视频、音频可直接选择盒觅工具处理；分享文件先复制为缓存快照，支持单/多文件、再次分享与工具预填。FFmpeg 切换为 audio 变体，保留音频转换、视频裁剪、HLS 复制/加密/转码回退与任务取消，签名包体积由 38.6 MB 降至 28.5 MB（-26.11%）。仅 arm64-v8a，提供服务器主源与 GitHub 备用源。",
+  "apkUrl": "https://boxseek.curiousfolio.cn/downloads/boxseek-1.2.9-arm64.apk",
+  "sizeBytes": 28536785,
+  "sha256": "5d06dd0456b1d2bc477d904507a0d6fc237d1dae9e7b21adf0baf455c6622114",
   "downloads": [
     {
       "name": "服务器",
-      "url": "https://boxseek.curiousfolio.cn/downloads/boxseek-1.2.8-arm64.apk"
+      "url": "https://boxseek.curiousfolio.cn/downloads/boxseek-1.2.9-arm64.apk"
     },
     {
       "name": "GitHub",
-      "url": "https://github.com/qiaoqihan/boxseek/releases/download/v1.2.8/boxseek-1.2.8-arm64.apk"
+      "url": "https://github.com/qiaoqihan/boxseek/releases/download/v1.2.9/boxseek-1.2.9-arm64.apk"
     }
   ]
 }

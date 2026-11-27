@@ -1,18 +1,18 @@
 {
-  "versionCode": 28,
-  "versionName": "1.3.1",
-  "releaseNotes": "1.3.1 正式版：西交校园新增校园网/校外 WebVPN 自动切换、图书馆原生登录与今日座位快照，选座平面/列表可切换，区域改行式选择并显示空闲数量；座位颜色、全屏手势与课表当前周同步优化。修复选座预取、校园会话提示与今日校园启动预加载，全局表单和账号编辑弹窗恢复清晰边框。同步发布西交校园 v25。",
-  "apkUrl": "https://boxseek.curiousfolio.cn/downloads/boxseek-1.3.1-arm64.apk",
+  "versionCode": 29,
+  "versionName": "1.3.2",
+  "releaseNotes": "1.3.2 修复版：首页“今日校园”冷启动会用本机加密保存的校园账号自动重登，不再需要先打开校园服务；校园网状态改为探测结果优先，校外不再误标“校园网”；校外登录直连失败时自动改走 WebVPN，图书馆打开即自动登录并在会话失效时自动重试。同步发布西交校园 v26。",
+  "apkUrl": "https://boxseek.curiousfolio.cn/downloads/boxseek-1.3.2-arm64.apk",
   "sizeBytes": 28689234,
-  "sha256": "7c0458d78b5ff54445e2077be45f76ec7fd5dcab8286a6759781f99617ee9ada",
+  "sha256": "8ce9f770027479994cfc2403f259b2b6ca004735862c7c8b521e5b8e528afaee",
   "downloads": [
     {
       "name": "服务器",
-      "url": "https://boxseek.curiousfolio.cn/downloads/boxseek-1.3.1-arm64.apk"
+      "url": "https://boxseek.curiousfolio.cn/downloads/boxseek-1.3.2-arm64.apk"
     },
     {
       "name": "GitHub",
-      "url": "https://github.com/qiaoqihan/boxseek/releases/download/v1.3.1/boxseek-1.3.1-arm64.apk"
+      "url": "https://github.com/qiaoqihan/boxseek/releases/download/v1.3.2/boxseek-1.3.2-arm64.apk"
     }
   ]
 }
